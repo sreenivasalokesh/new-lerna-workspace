@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "d61f88e2a951f813aa8516217884a45df503051d"
+  "gitHead": "a62f3df1343871bbcbfe2eb096a4f807bad17cca",
+  "publishConfig": {
+    "access": "public"
+  }
 }
