@@ -1,4 +1,5 @@
 const sum = (a, b) => {
+  console.log("adding"a,b)
   return a + b;
 };
 
