@@ -1,6 +1,6 @@
 {
   "name": "app-a",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "common-a-b": "^0.0.1",
+    "common-a-b": "^0.0.2",
     "express": "^4.18.2"
   },
   "gitHead": "55a1acf5d0e47f0976bec506123ecd38a517b46d"
