@@ -1,5 +1,5 @@
 const sum = (a, b) => {
-  console.log("adding", a, b);
+  console.log("adding result", a, b);
   return a + b;
 };
 
