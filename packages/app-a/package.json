@@ -1,6 +1,6 @@
 {
   "name": "@slokesh/app-a",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slokesh/common-a-b": "^0.0.2",
+    "@slokesh/common-a-b": "^0.0.3",
     "express": "^4.18.2"
   }
 }
