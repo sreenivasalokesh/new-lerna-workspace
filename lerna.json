@@ -8,6 +8,5 @@
     "**/*.md",
     "**/perf/**"
   ],
-  "packages": ["packages/*"],
-  "npmClient": "yarn"
+  "packages": ["packages/*"]
 }

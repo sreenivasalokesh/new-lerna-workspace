@@ -1,6 +1,6 @@
 {
   "name": "@slokesh/app-b",
-  "version": "0.0.8",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "gitHead": "4529b825e3c25e90585bd3b00d0f1935eaba80f7",
-  "publishConfig": {
-    "access": "public"
-  }
+  "license": "ISC"
 }
