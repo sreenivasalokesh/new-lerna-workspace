@@ -4,6 +4,7 @@ const sum = (a, b) => {
 };
 
 const mul = (a, b) => {
+  console.log("mult", a, b);
   return a * b;
 };
 
