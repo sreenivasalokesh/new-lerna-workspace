@@ -1,0 +1,12 @@
+{
+  "name": "common-a-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo app-a-b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

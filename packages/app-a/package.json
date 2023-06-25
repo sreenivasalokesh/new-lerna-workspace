@@ -1,0 +1,17 @@
+{
+  "name": "app-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo app-a",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-a-b": "^1.0.0",
+    "express": "^4.18.2"
+  }
+}
