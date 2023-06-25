@@ -1,5 +1,5 @@
 {
-  "name": "app-a",
+  "name": "@slokesh/app-a",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,5 @@
     "common-a-b": "^0.0.2",
     "express": "^4.18.2"
   },
-  "gitHead": "55a1acf5d0e47f0976bec506123ecd38a517b46d"
+  "gitHead": "78ac3a3ab42f465ad2c0b10e9718cb9d2a5984c6"
 }
