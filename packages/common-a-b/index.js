@@ -8,4 +8,9 @@ const mul = (a, b) => {
   return a * b;
 };
 
-module.exports = { sum, mul };
+const div = (a, b) => {
+  console.log("divide result", a, b);
+  return a / b;
+};
+
+module.exports = { sum, mul, div };
