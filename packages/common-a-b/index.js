@@ -4,7 +4,7 @@ const sum = (a, b) => {
 };
 
 const mul = (a, b) => {
-  console.log("multiply", a, b);
+  console.log("multiply result", a, b);
   return a * b;
 };
 
